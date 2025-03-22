@@ -1,21 +1,32 @@
-# Security Policy
+# CubeX AI Security Policy  
 
-## Supported Versions
+## Reporting Security Issues  
+Security-related bugs and vulnerabilities can impact the safety of our users. If you discover a security issue in CubeX AI, please follow these steps:  
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+1. **Do Not Disclose Publicly** – Report the issue privately to our security team.  
+2. **Contact Us** – Send an email to **nonoaicompany@gmail.com** with details of the vulnerability.  
+3. **Provide Details** – Include steps to reproduce the issue and potential impact.  
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+We will acknowledge the report within **48 hours** and provide an update on the fix timeline.  
 
-## Reporting a Vulnerability
+## Supported Versions  
+We actively support the latest stable release of CubeX AI. Security updates will be provided for:  
 
-Use this section to tell people how to report a vulnerability.
+| Version  | Supported |
+|----------|----------|
+| v1.x.x   | ✅ Yes |
+| v0.x.x   | ❌ No |
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+## Security Best Practices  
+To ensure security while using CubeX AI:  
+- **Keep firmware up to date** with the latest patches.  
+- **Use strong Wi-Fi passwords** and secure Bluetooth connections.  
+- **Do not share private API keys** or sensitive credentials.  
+
+## Responsible Disclosure  
+We follow a **responsible disclosure policy** and appreciate security researchers who report vulnerabilities ethically.  
+
+---
+
+If you have any questions, reach out to (nonoaicompany@gmail.com).  
+Thank you for helping us keep CubeX AI secure! 🚀  
