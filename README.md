@@ -15,8 +15,9 @@ CubeX AI is a cube-shaped smart speaker that captures audio from videos played o
 🔹 AI & APIs: Google Speech API, Google Translate API, gTTS
 🔹 Connectivity: Flask, PyBluez (Bluetooth), Wi-Fi SDK
 
-# CubeX-AI-Prototype
-│── speech_recognition/   # Speech-to-Text (STT)
-│── translation/          # Language Translation
-│── text_to_speech/       # AI Voice Output (TTS)
-│── connectivity/         # Bluetooth & Wi-Fi Code
+# CubeX 0.1
+speech_recognition - Speech-to-Text (STT).
+translation - Language Translation.
+text_to_speech - AI Voice Output (TTS).
+connectivity - Bluetooth & Wi-Fi Code.
+prototype_app - UI/UX for Mobile/Web Interface.
